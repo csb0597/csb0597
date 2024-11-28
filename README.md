@@ -21,5 +21,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csb0597&show_icons=true&theme=transparent)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 </div>
